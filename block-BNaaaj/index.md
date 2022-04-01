@@ -7,6 +7,7 @@ Q. In above `index.js` file
 - write code to get `number of cpu's, free memory, uptime and version from os module`
 - write code to require only readFile and unlink method from fs module.
 
+
 Q. Create 2 files
   1. area.js
   2. app.js
