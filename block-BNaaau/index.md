@@ -5,7 +5,7 @@ Q. Create a basic server using http's createServer
   - console request and response object
   - do a request using browser on `localhost:5000`
   - check out console for request and response object
-
+.
 Q. create a node server 
   - add listener on port 5100
   - respond with 'My first server in NodeJS' using response object
